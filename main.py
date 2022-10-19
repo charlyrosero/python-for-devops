@@ -1,5 +1,7 @@
 from library.logic import wiki
 
-print(wiki())
+result=wiki()
 
-a = 1
+result=result
+
+print(result)
