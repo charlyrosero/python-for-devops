@@ -4,6 +4,7 @@ install:
 		pip install -r requirements.txt
 format:
 	#format code
+	black *.py library/*.py
 lint:
 	#flake8 ir #pylint
 test:
