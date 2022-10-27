@@ -1,9 +1,7 @@
-import re
-from unittest import result
 from fastapi import FastAPI
 import uvicorn
-from library.logic import *
-from fastapi.responses import JSONResponse
+from library.logic import findwiki,wiki,phrase
+
 
 
 app = FastAPI()
