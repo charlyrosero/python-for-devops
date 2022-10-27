@@ -2,8 +2,8 @@
 
 import fire
 
-from library.logic import wiki
+from library import logic
 
 
 if __name__ == "__main__":
-    fire.Fire(wiki)
+    fire.Fire(logic)
