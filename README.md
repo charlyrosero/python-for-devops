@@ -1,3 +1,3 @@
-[![Python application test with Github Actions](https://github.com/charlyrosero/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/charlyrosero/python-for-devops/actions/workflows/devops.yml)
-
 # python-for-devops
+
+https://codebuild.us-east-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWjRXNGwyKzdrU1ZQb20vekRBWTdyS2QxUXhuUENZV0c4WU9LNHh2MWdaNS9Idk5Ec1BXRzZKVFdSVUd0VWdPMTF4cHFxcm1YdGtIa1YyblpFcFJ6cWp3PSIsIml2UGFyYW1ldGVyU3BlYyI6IlhMRzNodmJmT2h0QUJqeHUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
